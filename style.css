@@ -76,7 +76,7 @@ p{
 }
 #full-experience{
     border-left: 7px solid;
-    border-image: linear-gradient(gray,orange);
+    border-image: linear-gradient(rgb(243, 20, 187),rgb(14, 131, 240));
     border-image-slice: 1;
 }
 #baby-experience{
